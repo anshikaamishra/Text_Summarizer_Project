@@ -1,5 +1,3 @@
-# Text_Summarizer_Project
-
 # Text Summarizer - End To End NLP Project Implementation with Deployment
 
 ![Text Summarizer](https://img.shields.io/badge/Text-Summarizer-brightgreen.svg)
